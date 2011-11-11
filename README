@@ -1,3 +1,4 @@
 Opa Cairo binding
+Only few features, the one needed by OpaWhiteBoard
 
 You'll need to install ocaml-cairo and libcairo
